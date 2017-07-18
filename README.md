@@ -1,4 +1,4 @@
 # fileserver
 Simple fileserver for web enthusiasts
 
-Please use __Python 3__ or later version
+Please use __Python 3.5__ or later version
